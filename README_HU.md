@@ -6,7 +6,13 @@
 
 [**Windows letöltés – GitHub Releases**](https://github.com/vizisiklo/Box-Mockup-Generator/releases)
 
-> Ha a Releases oldalon még nincs `BoxMockupGenerator.exe` fájl, a letölthető kiadás még nincs feltöltve. Kérjük, csak a hivatalos kiadásból töltsd le.
+> **Kísérleti, lezárt Free Beta 1.5.3:** az ingyenes EXE továbbra is elérhető, de új funkciókkal már nem frissítjük. [A hivatalos Windows EXE közvetlen letöltése](https://github.com/vizisiklo/Box-Mockup-Generator/releases/download/free-beta-v1.5.3/BoxMockupGenerator.exe). Más forrásból származó fájlokat nem javaslunk letölteni.
+
+## Készül a teljes változat
+
+A **Box Mockup Generator teljes, fejlettebb változata** privát fejlesztés alatt áll. Tervezett irányok: stabilabb működés, projektmentés, jobb renderminőség, több doboz- és csomagolásforma. Az új verziók forráskódja és fejlesztői EXE-i **nem kerülnek a Free Beta publikus repositoryjába**. Megjelenési dátumot még nem határoztunk meg.
+
+A már elfogadott fejlesztésekről az angol–magyar [fejlesztési naplóban (CHANGELOG)](CHANGELOG.md) lehet tájékozódni. A publikus dokumentáció frissülhet, **maga a Free Beta 1.5.3 EXE azonban változatlan marad**.
 
 ## Az öt lépés
 

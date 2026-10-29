@@ -1,6 +1,8 @@
 # Release notes
 
-## Free Beta 1.5.3 — Windows x64
+## Free Beta 1.5.3 — Windows x64 (Experimental, frozen)
+
+This is the **final public Free Beta binary**. Further development will happen privately for a separate full edition. Only public documentation and the [development changelog](CHANGELOG.md) may be updated here.
 
 **Distribution:** Portable Windows executable, published separately via [GitHub Releases](https://github.com/vizisiklo/Box-Mockup-Generator/releases).
 

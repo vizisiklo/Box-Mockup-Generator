@@ -6,7 +6,13 @@ This is a **free-to-use, proprietary beta**. The program is not open source. The
 
 [**Download the Windows version from Releases**](https://github.com/vizisiklo/Box-Mockup-Generator/releases)
 
-> **Availability:** The Windows executable is published separately as a GitHub Release asset. If the Releases page has no executable yet, a downloadable build has not been attached. Do not download unverified copies from third-party sites.
+> **Experimental Free Beta, frozen at version 1.5.3:** This free download will remain available but will not receive further feature releases. [Download the official Windows EXE](https://github.com/vizisiklo/Box-Mockup-Generator/releases/download/free-beta-v1.5.3/BoxMockupGenerator.exe). Do not download unverified copies from third-party sites.
+
+## A full version is coming
+
+We are developing a more capable **Box Mockup Generator full edition**, with planned improvements to stability, project workflows, rendering quality, and packaging types. Development takes place privately; **no source code or future development executables will be published in this Free Beta repository**. No availability date has been announced.
+
+Follow the [development changelog and roadmap](CHANGELOG.md) for confirmed progress. This public page can be updated with news, but the **Free Beta 1.5.3 executable will remain unchanged**.
 
 ## What can it do?
 
